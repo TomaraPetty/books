@@ -1,6 +1,5 @@
 import BookShow from './BookShow';
 import BooksContext from '../context/books';
-import BookShow from './BookShow';
 import { useContext } from 'react';
 
 function BookList() {
